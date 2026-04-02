@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Worklog</title>
+        <item>
+            <title>Version 26.4.7</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>26.4.7</sparkle:shortVersionString>
+            <pubDate>Thu, 2 Apr 2025 15:10:00 +0300</pubDate>
+            <enclosure
+                url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.7/Worklog.dmg"
+                sparkle:edSignature="yZXySdhLXcXrrS0n55HwjRDlBwYnWYKCcW3KoebyolJly9kEm9WUKpbtvsnUu2hqpb/cZ/9KnK4xvvGiO85fCw=="
+                length="6298867"
+                type="application/x-apple-diskimage"
+            />
+        </item>
+    </channel>
+</rss>

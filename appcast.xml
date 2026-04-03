@@ -3,14 +3,14 @@
     <channel>
         <title>Worklog</title>
         <item>
-            <title>Version 26.4.10</title>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>26.4.10</sparkle:shortVersionString>
+            <title>Version 26.4.11</title>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>26.4.11</sparkle:shortVersionString>
             <pubDate>Thu, 3 Apr 2025 13:50:00 +0300</pubDate>
             <enclosure
-                url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.10/Worklog.dmg"
-                sparkle:edSignature="Lp+NY1Btfq7sQN5L6hupQLUobGu0jLmMdKduLrv4S+KtRGRYw4/gtEUn60jqjmIota8TjjLJHvfQqBVQ61/5Bw=="
-                length="6084751"
+                url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.11/Worklog.dmg"
+                sparkle:edSignature="q+ObtUwYs4BVgmyS4c6B1onRkFGTeZK6oIkIn6EET+bl5m3VyFCPIeFNZiQlMxmJTULfaSr6b4fFc2Gg/b5pBw=="
+                length="6087195"
                 type="application/x-apple-diskimage"
             />
         </item>

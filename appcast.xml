@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Worklog</title>
-        <item>
-            <title>Version 26.4.12</title>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>26.4.12</sparkle:shortVersionString>
-            <pubDate>Thu, 3 Apr 2025 13:50:00 +0300</pubDate>
-            <enclosure
-                url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.12/Worklog.dmg"
-                sparkle:edSignature="2u7wxTry/z+WSpI0E5PAstnJ/966MX9Dc07aQwezv5h/gcUgdiM0436aMb/LDPsSKi7wfUdmXwMCrmCA2JP6CA=="
-                length="5983322"
+        <title>Version 26.4.13</title>
+        <sparkle:version>18</sparkle:version>
+        <sparkle:shortVersionString>26.4.13</sparkle:shortVersionString>
+        <pubDate>Thu, 9 Apr 2025 22:50:00 +0300</pubDate>
+        <enclosure
+            url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.13/Worklog.dmg"
+                sparkle:edSignature="OxwpmNoxsEMDK2VgQ5L1bTg/I01617XaM56na72ZIDoP02QEY82DWccg8ANZRSjg9k3CZuwjlAmtbUg6FoVeCA=="
+                length="6173570"
                 type="application/x-apple-diskimage"
             />
         </item>

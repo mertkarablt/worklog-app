@@ -7,10 +7,10 @@
         <pubDate>Thu, 9 Apr 2025 22:50:00 +0300</pubDate>
         <enclosure
             url="https://github.com/mertkarablt/worklog-app/releases/download/26.4.13/Worklog.dmg"
-                sparkle:edSignature="OxwpmNoxsEMDK2VgQ5L1bTg/I01617XaM56na72ZIDoP02QEY82DWccg8ANZRSjg9k3CZuwjlAmtbUg6FoVeCA=="
-                length="6173570"
-                type="application/x-apple-diskimage"
-            />
+            sparkle:edSignature="OxwpmNoxsEMDK2VgQ5L1bTg/I01617XaM56na72ZIDoP02QEY82DWccg8ANZRSjg9k3CZuwjlAmtbUg6FoVeCA=="
+            length="6173570"
+            type="application/x-apple-diskimage"
+        />
         </item>
     </channel>
 </rss>
